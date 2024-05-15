@@ -1,9 +1,3 @@
-![icons8-outlook-32](https://github.com/ruytertorres/ruytertorres/assets/57309589/667f0d5a-ff77-41cb-9801-f3af434dad87)
-![icons8-linkedin-32](https://github.com/ruytertorres/ruytertorres/assets/57309589/349bf967-aa3c-4e2a-859d-550cc0fd11f4)
-
-![icons8-linha-vertical-grossa-32](https://github.com/ruytertorres/ruytertorres/assets/57309589/334142e0-81fe-4724-bd15-19450a853590)
-
-
 # Hello World!!! My name is **Ruyter Torres** ... <br> <img width="50%" align="right" src="https://github.com/ruytertorres/ruytertorres/assets/57309589/3898c025-7ae9-4976-889d-53a612be16ec">
 #### *Welcome to my Github profile* :v: <br><br><br>
 
