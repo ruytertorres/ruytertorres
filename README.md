@@ -1,16 +1,22 @@
-# Hello World!!! My name is **Ruyter Torres** ... <br> <img width="50%" align="right" src="https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/2775a917-943b-4875-9712-988668ec98e3">
+![icons8-outlook-32](https://github.com/ruytertorres/ruytertorres/assets/57309589/667f0d5a-ff77-41cb-9801-f3af434dad87)
+![icons8-linkedin-32](https://github.com/ruytertorres/ruytertorres/assets/57309589/349bf967-aa3c-4e2a-859d-550cc0fd11f4)
+
+![icons8-linha-vertical-grossa-32](https://github.com/ruytertorres/ruytertorres/assets/57309589/334142e0-81fe-4724-bd15-19450a853590)
+
+
+# Hello World!!! My name is **Ruyter Torres** ... <br> <img width="50%" align="right" src="https://github.com/ruytertorres/ruytertorres/assets/57309589/3898c025-7ae9-4976-889d-53a612be16ec">
 #### *Welcome to my Github profile* :v: <br><br><br>
 
 - :star2: I'm currently looking to fit into the job market. 
 - :fire: I'm currently attending college and learning front-end: <br><br>
-<img src="https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/a0da816d-1df4-4948-905b-1cd8908c6211"> ![icons8-linha-vertical-grossa-32](https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/c7dd0828-5607-4e87-8e8e-676114a235ff) <img src="https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/5ae68ace-fb70-4cdc-bd66-ff24dfcb74ed"> ![icons8-linha-vertical-grossa-32](https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/c7dd0828-5607-4e87-8e8e-676114a235ff) <img src="https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/240ac3ee-b2bc-4a4b-bf8b-b96cdf61bde6"> ![icons8-linha-vertical-grossa-32](https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/c7dd0828-5607-4e87-8e8e-676114a235ff) <img src="https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/0a32fedc-662e-479c-93f1-46b80b3a1a11">
+<img src="https://github.com/ruytertorres/ruytertorres/assets/57309589/e846ab60-6f85-4fc7-9db1-8a4f815bdaf2"> ![icons8-linha-vertical-grossa-32](https://github.com/ruytertorres/ruytertorres/assets/57309589/334142e0-81fe-4724-bd15-19450a853590) <img src="https://github.com/ruytertorres/ruytertorres/assets/57309589/04b966a0-411d-480d-be6c-2b51d41df472"> ![icons8-linha-vertical-grossa-32](https://github.com/ruytertorres/ruytertorres/assets/57309589/334142e0-81fe-4724-bd15-19450a853590) <img src="https://github.com/ruytertorres/ruytertorres/assets/57309589/af6c7ec2-458f-407a-99c6-522874d79ecd"> ![icons8-linha-vertical-grossa-32](https://github.com/ruytertorres/ruytertorres/assets/57309589/334142e0-81fe-4724-bd15-19450a853590) <img src="https://github.com/ruytertorres/ruytertorres/assets/57309589/52fbb0df-26cc-4c2f-affb-e61fc0296575">
 
 
 - 👯 I'm looking for front-end collaborators
 - :disappointed_relieved: I’m looking for help with <br>
-<br><img src="https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/a0da816d-1df4-4948-905b-1cd8908c6211"> 
+<br><img src="https://github.com/ruytertorres/ruytertorres/assets/57309589/e846ab60-6f85-4fc7-9db1-8a4f815bdaf2"> 
 - 💬 Ask me about <br>
-<br><img src="https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/240ac3ee-b2bc-4a4b-bf8b-b96cdf61bde6">
+<br><img src="https://github.com/ruytertorres/ruytertorres/assets/57309589/a4073077-2254-41a9-b919-5ccff6cc8bcf">
 - 😄 Pronouns: **Sr. Torres**
 - ⚡ Fun fact:
 
@@ -19,9 +25,9 @@
   
       It's me MAR... RUYTER
 <div align="center">
-<br><br> <a href = "ruytertorres@outlook.com"><img loading="lazy" src="https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/f0766efb-2171-42bb-a4db-0b9a5c36430a" target="_blank"></a> <img src="https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/c7dd0828-5607-4e87-8e8e-676114a235ff"> <a href="https://www.linkedin.com/in/ruytertorres" target="_blank"><img loading="lazy" src="https://github.com/ruytertorres/Ruyter-Torres/assets/57309589/35727ad9-7778-40bb-a9e9-94d75e024d42" target="_blank"></a><br> . __________ . <br>CONTATOS</div> 
+<br><br> <a href = "ruytertorres@outlook.com"><img loading="lazy" src="https://github.com/ruytertorres/ruytertorres/assets/57309589/667f0d5a-ff77-41cb-9801-f3af434dad87" target="_blank"></a> <img src="https://github.com/ruytertorres/ruytertorres/assets/57309589/334142e0-81fe-4724-bd15-19450a853590"> <a href="https://www.linkedin.com/in/ruytertorres" target="_blank"><img loading="lazy" src="https://github.com/ruytertorres/ruytertorres/assets/57309589/349bf967-aa3c-4e2a-859d-550cc0fd11f4" target="_blank"></a><br> . __________ . <br>CONTATOS</div> 
 
 #
 <div align="center">
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"> <img width="39%" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=slateorange">
+<img width="29.5%" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"> <img width="39%" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=slateorange">
 </div> 
